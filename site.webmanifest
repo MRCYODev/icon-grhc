@@ -1,0 +1,23 @@
+   {
+    "name": "Greek Home Cooking",
+    "short_name": "GrHomeCooking",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgz1qsuhq5dYswLRmXo_JFCTLBFRQG31m4ec_I2Oy5PpEchHzPCuGsUyWtP0FpkSBbHHSKndRHAJs9UCISyMVB_6XIs1iDVMWzeIQJDSB8LBUaygVbjqYU3r3nO6nNCzVX1QfSjz9NmBFENH40ODMyUSypy4XneFB8YsXh1mozNvaRd7a5MfjsPUn3v8g=s512",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgz1qsuhq5dYswLRmXo_JFCTLBFRQG31m4ec_I2Oy5PpEchHzPCuGsUyWtP0FpkSBbHHSKndRHAJs9UCISyMVB_6XIs1iDVMWzeIQJDSB8LBUaygVbjqYU3r3nO6nNCzVX1QfSjz9NmBFENH40ODMyUSypy4XneFB8YsXh1mozNvaRd7a5MfjsPUn3v8g=s512",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#49a3ec",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.grhck.com"
+}
